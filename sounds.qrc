@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Sounds/Chomping.wav</file>
+        <file>Sounds/EatGhosts.wav</file>
+        <file>Sounds/EatingCherry.wav</file>
+        <file>Sounds/ExtraLife.wav</file>
+        <file>Sounds/Intermission.wav</file>
+        <file>Sounds/PacmanDeath.wav</file>
+        <file>Sounds/Siren.wav</file>
+        <file>Sounds/StartGame.wav</file>
+        <file>Sounds/Zip.wav</file>
+    </qresource>
+</RCC>
